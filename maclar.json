@@ -1,0 +1,1312 @@
+{
+  "1": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "26.08.2026",
+    "skor1": 5,
+    "skor2": 1,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Ozay",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "2": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "26.08.2026",
+    "lokasyon": "",
+    "gun": "",
+    "saat": "",
+    "skor1": 5,
+    "skor2": 4,
+    "takim1": [
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Muammer",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "3": {
+    "oynandi": true,
+    "tarih": "26.08.2026",
+    "skor1": 18,
+    "skor2": 10,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "4": {
+    "oynandi": true,
+    "tarih": "26.08.2026",
+    "skor1": 5,
+    "skor2": 1,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "5": {
+    "oynandi": true,
+    "tarih": "26.08.2026",
+    "skor1": 5,
+    "skor2": 12,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ]
+  },
+  "6": {
+    "oynandi": true,
+    "tarih": "26.08.2026",
+    "skor1": 18,
+    "skor2": 10,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      }
+    ]
+  },
+  "7": {
+    "oynandi": true,
+    "tarih": "26.08.2026",
+    "skor1": 10,
+    "skor2": 1,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ]
+  },
+  "8": {
+    "oynandi": false,
+    "skor_girildi": false,
+    "tarih": "26.08.2026",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ozay",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "9": {
+    "oynandi": true,
+    "tarih": "27.08.2026",
+    "skor1": 8,
+    "skor2": 4,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Aykut",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Semih",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ]
+  },
+  "10": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "26.08.2026",
+    "skor1": 5,
+    "skor2": 3,
+    "takim1": [
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ozay",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "11": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "26.08.2026",
+    "skor1": 2,
+    "skor2": 8,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Ozay",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zafer",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "12": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "27.08.2026",
+    "lokasyon": "Atapark",
+    "gun": "",
+    "saat": "",
+    "skor1": 8,
+    "skor2": 10,
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Muammer",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "13": {
+    "oynandi": true,
+    "skor_girildi": true,
+    "tarih": "27.08.2026",
+    "lokasyon": "ATAPARK",
+    "gun": "Çarşamba",
+    "saat": "22:00 - 23:00",
+    "skor1": 8,
+    "skor2": 10,
+    "takim1": [
+      {
+        "isim": "AAA",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Muammer",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "14": {
+    "oynandi": false,
+    "skor_girildi": false,
+    "tarih": "27.08.2026",
+    "lokasyon": "ATAPARK HALISAHA",
+    "gun": "05.09.2026 Çarşamba",
+    "saat": "21:00 / 22:00",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Gorkem",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Görko",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Muammer",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Inan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Sakir",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "15": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "16": {
+    "oynandi": false,
+    "skor_girildi": false,
+    "tarih": "27.08.2026",
+    "lokasyon": "",
+    "gun": "",
+    "saat": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [
+      {
+        "isim": "Askin",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Cagdas",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Caglar",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Sevko",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Tolga",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Ugurcan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Zeynel Evrim",
+        "mevki": "Forvet"
+      }
+    ],
+    "takim2": [
+      {
+        "isim": "Erdal",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Erkan",
+        "mevki": "Defans"
+      },
+      {
+        "isim": "Gorkem",
+        "mevki": "Kale"
+      },
+      {
+        "isim": "Kenan Komutan",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Serci",
+        "mevki": "Ortasaha"
+      },
+      {
+        "isim": "Umutcan",
+        "mevki": "Forvet"
+      },
+      {
+        "isim": "Zeynel Sonbahar",
+        "mevki": "Defans"
+      }
+    ]
+  },
+  "17": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "18": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "19": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "20": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "21": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "22": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "23": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "24": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "25": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "26": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "27": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "28": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "29": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "30": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "31": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "32": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "33": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "34": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "35": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "36": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "37": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "38": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "39": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "40": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "41": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "42": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "43": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "44": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "45": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "46": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "47": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "48": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "49": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "50": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "51": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  },
+  "52": {
+    "oynandi": false,
+    "tarih": "",
+    "skor1": "",
+    "skor2": "",
+    "takim1": [],
+    "takim2": []
+  }
+}
